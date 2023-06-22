@@ -1,0 +1,95 @@
+
+  div[data-testid="stImage"] img:nth-of-type(0) {
+    max-width: 100%;
+    position: relative;
+    top: -48px;
+    left: 58px;
+    min-width: none;
+}
+
+
+#header {
+        background: #FFFFFF;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+
+    }
+
+
+#user {
+    display: flex; align-items: center; justify-content: flex-end;
+    margin-right: 15px;
+    }
+
+.css-z5fcl4 {
+    width: 100%;
+    padding: 0rem 0rem 0rem;
+    min-width: auto;
+    max-width: initial;
+}
+#user-image {
+    width: 42px;
+    height: 43px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+button[title="View fullscreen"]{
+    visibility: hidden;}
+
+.css-15zrgzn {display: none}
+.css-eczf16 {display: none}
+.css-jn99sy {display: none}
+#user-name{
+    font-size: medium;
+    margin: 1rem;
+    color: rgb(15, 15, 15);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#MainMenu {visibility: 
+    hidden;}
+header {visibility: 
+   hidden;}
+footer {visibility: 
+   hidden;} 
+.menu .container-xxl[data-v-4323f8ce] {
+    background-color: #FD673A;
+}
+.css-1544g2n {
+    padding: 6rem 1rem 1.5rem;
+    background-color:#FD673A;
+}
+.menu-title[data-v-4323f8ce], .menu .nav-item[data-v-4323f8ce], .menu .nav-link[data-v-4323f8ce], hr[data-v-4323f8ce] {
+    color: #ffffff;
+}
+.menu .container-xxl[data-v-4323f8ce] {
+    /*background-color: var(--secondary-background-color);*/
+    /* border-radius: .5rem; */
+    background-color: #FD673A;
+}
+.css-6qob1r {
+    position: relative;
+    height: 100%;
+    width: 99%;
+    overflow: overlay;
+    background-color: #FD673A;
+}
+.menu .nav-item .nav-link.active[data-v-4323f8ce] {
+    /*background-color: var(--primary-color);*/
+    background-color: rgba(255, 255, 255, 0.31);
+}
+i.icon.bi-menu-up {
+    visibility: hidden;
+}
+hr {
+    visibility: hidden;
+    background-color: white;
+}
+
+/* .stButton > button{
+    width: 100%;
+    margin-top: 33px;
+    background: linear-gradient(180deg, #FF7F50 0%, #FF7F50 82.3%, #FF7F50 100%);
+    color: white;} */

@@ -1,0 +1,15 @@
+.stButton > button{
+    width: 100%;
+    margin-top: 33px;
+    background: linear-gradient(180deg, #FF7F50 0%, #FF7F50 82.3%, #FF7F50 100%);    color: white;
+
+}
+.css-m9mqwd {
+    width: calc(28.5714% - 1rem);
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    flex: 1 1 calc(28.5714% - 1rem);
+    padding: 29px;
+    /* padding-top: 163px; */
+}

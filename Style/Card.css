@@ -1,0 +1,203 @@
+/*Cards Styling*/
+/** Start**/
+.container {
+    width: 100%;
+    height: 86px;
+    position: relative;
+}
+
+.child-container {
+    width: 100%;
+    height: 86px;
+}
+
+.rectangle {
+    width: 100%;
+    height: 86px;
+    position: absolute;
+    left: -0.5px;
+    top: -0.5px;
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.side-rect {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 73.03px;
+    height: 86px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    gap: 13px;
+    padding-left: 21px;
+    padding-right: 21px;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    background: #4569e8;
+}
+
+.Content-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 54%;
+    position: absolute;
+    left: 79.72px;
+    top: 24px;
+    gap: 45px;
+}
+
+.label {
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 11px;
+    font-weight: 300;
+    width: 71%;
+    text-align: center;
+    color: rgba(54, 57, 59, 0.98);
+}
+.Number {
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    color: #0c1247;
+    width: 41%;
+}
+.css-1offfwp {
+    font-family: "Source Sans Pro", sans-serif;
+    /*margin-bottom: -2rem;*/
+
+}
+
+.css-ocqkz7 {
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    gap: 1rem;
+    margin-left: 6px;
+}
+
+/**End**/
+/*****************/
+/*Info System card*/
+/**Start**/
+.info-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header {
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    left: 3.5px;
+    top: -0.5px;
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.Text-style {
+    width: 131.09px;
+    position: absolute;
+   
+    top: 25px;
+    font-size: 19px;
+    text-align: center;
+    color: #363f31;
+}
+
+.container-camera-info {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: absolute;
+    left: 40px;
+    top: 82px;
+    gap: 126px;
+    width: 30%;
+}
+
+.container-IP-camera {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.text-IP-camera {
+    position: relative;
+    left: 0px;
+    top: -4px;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: center;
+    color: #000;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.circle_ {
+    vertical-align: middle;
+    position: relative;
+    top: -12px;
+    display: inline-block;
+
+}
+.css-6vw1hb {
+   margin-top: 22px;
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.css-m9mqwd {
+        margin-top: 22px;
+        padding-left: 34px;
+        border-radius: 7px;
+        background: #fff;
+        box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    }
+
+.css-tcjedx {
+    margin-left: 32px;
+    margin-top: 17px;
+    left: 30px;
+}
+.css-1xefu3y {
+    padding: 10px;
+    border-radius: 7px;
+    background: #fff;
+    margin-left: 3px;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-top: -12px;
+}
+.css-1l269bu {
+    margin-top: -28px;
+}
+.css-keje6w {
+    width: calc(50% - 1rem);
+    flex: 1 1 calc(50% - 1rem);
+    padding: 8px;
+}
+.stRadio {
+    width: 309px;
+    position: relative;
+    top: -26px;
+}
+.css-1qc9je4 {
+    border-radius: 7px;
+    background: #fff;
+    margin-left: 3px;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    padding-bottom: 9px;
+}

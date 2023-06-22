@@ -1,0 +1,119 @@
+.stButton > button{
+    width: 110px;
+    margin-top: 33px;
+    background: rgb(5, 168, 170);
+    color: white;
+    width: 120px;
+
+}
+.css-keje6w {
+    width: calc(50% - 1rem);
+    flex: 1 1 calc(50% - 1rem);
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-left: 8px;
+    padding-left: 32px;
+}
+.css-a7ubh2 {
+    width: calc(96.7742% - 1rem);
+    flex: 1 1 calc(96.7742% - 1rem);
+    /* padding: 156px; */
+    padding-left: 323px;
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.css-1fcdlhc.e1s6o5jp0 {
+    padding-right: 37px;
+    padding-top: 12px;
+}
+.ag-root-wrapper.ag-layout-normal {
+    height: 93%;
+}
+.css-1fcdlhc.e1s6o5jp0 {
+    padding-right: 37px;
+    padding-top: 12px;
+    position: relative;
+    top: 16px;
+}
+.css-1qsxot {
+    width: calc(99.6016% - 1rem);
+    flex: 1 1 calc(99.6016% - 1rem);
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-top: -3px;
+    padding: 14px;
+    margin-right: 4px;
+    margin-left: -8px;
+}
+.css-1h4axjh {
+    width: calc(98.0392% - 1rem);
+    flex: 1 1 calc(98.0392% - 1rem);
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 0px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-top: -3px;
+    padding: 14px;
+    margin-right: 4px;
+    margin-left: -8px;
+}
+.stDownloadButton > button {
+    width: 110px;
+    margin-top: 33px;
+    background: rgb(5, 168, 170);
+    color: white;
+}
+.css-1h4axjh {
+    width: calc(99.7506% - 1rem);
+    flex: 1 1 calc(99.7506% - 1rem);
+    border-radius: 7px;
+    background: #fff;
+    box-shadow: 1px 2px 4px 0 rgba(0, 0, 0, 0.25);
+    margin-top: -24px;
+    padding: 24px;
+    margin-right: 4px;
+    margin-left: 13px;
+}
+.stDownloadButton > button {
+    width: 100%;
+    margin-top: 33px;
+    background: rgb(4, 4, 4);
+    color: white;
+}
+.stDownloadButton > button:focus:not(:active) {
+    border-color: #000000;
+    color: rgb(255, 255, 255);
+}
+.stDownloadButton > button:hover {
+    border-color: #000000;
+    color: rgb(255, 255, 255);
+}
+.stDownloadButton > button:focus {
+    box-shadow:#000000 0px 0px 0px 0.2rem;
+    color: rgb(255, 255, 255);
+}
+.stDownloadButton > button::after {
+    border-color: #000000;
+    color: rgb(255, 255, 255);
+}
+.stButton > button:nth-child(1){
+    width: 100%;
+    margin-top: 33px;
+    background: rgb(5, 168, 170);
+    color: white;
+
+}
+.css-1x8cf1d:focus:not(:active) {
+    border-color: #05A8AA;
+    color: rgb(255, 255, 255);
+}
+.css-1x8cf1d:hover {
+    border-color:#05A8AA;
+    color: rgb(255, 255, 255);
+}
+.css-1x8cf1d:focus {
+    box-shadow:#05A8AA 0px 0px 0px 0.2rem;
+    outline: none;
+}

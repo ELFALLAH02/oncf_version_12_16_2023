@@ -1,0 +1,27 @@
+<script>
+    const streamlitDoc = window.parent.document;
+    const buttons_page_2 = Array.from(streamlitDoc.querySelectorAll('.stButton > button'));
+    const radio_page_2 = Array.from(streamlitDoc.querySelectorAll('.stRadio > button'));
+
+    //console.log(buttons) // find buttons in console tab
+    const Export = buttons_page_2.find(el => el.innerText === 'Save');
+    
+    const save = buttons_page_2.find(el => el.innerText === 'Update');
+
+    Export.style.width = '100px';
+    Export.style.marginTop = '33px';
+    Export.style.background = 'rgb(5, 168, 170)';
+    Export.style.color = 'white';
+    Export.style.position = 'relative';
+    Export.style.top = '67px';
+     //--- SAVE--//
+    save.style.width = '100px';
+    save.style.marginTop = '33px';
+    save.style.background = 'rgb(245, 174, 163)';
+    save.style.color = 'white';
+    save.style.position = 'relative';
+    save.style.top = '67px';
+
+
+
+</script>
